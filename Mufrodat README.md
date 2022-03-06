@@ -1,0 +1,2 @@
+- Tanda petik seperti 'HA menunjukkan ha ringan
+- (tu)/(tun) menunjukkan ta marbuthah
