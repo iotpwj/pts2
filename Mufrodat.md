@@ -1,0 +1,119 @@
+- Sariyrun↔Ranjang
+- Miftaa 'Hun↔Kunci
+- Qalamun↔Pena
+- Maktabun↔Meja
+- QamiySHun↔Baju
+- Najmun↔Bintang
+- THabiybun↔Dokter
+- Waladun↔Anak (laki)
+- Rajulun↔Pria
+- Taajirun↔Pedagang
+- QiTHTHun↔Kucing
+- 'HImaarun↔Keledai
+- 'HiSHaanun↔Kuda
+- Jamalun↔Unta
+- Diykun↔Ayam jantan
+- Mindiylun↔Tisu/Sapu tangan
+- 'HAjarun↔Batu
+- Sukkarun↔Gula
+- Labanun↔Susu
+- Maksuwrun↔Pecah
+- Maftuw 'HUn↔Terbuka
+- Jadiydun↔Baru
+- Qadiymun↔Lama
+- SHagiyrun↔Kecil
+- Kabiyrun↔Besar
+- WasiKHUn↔Kotor
+- NaTHZiyfun↔Bersih
+- Baaridun↔Dingin
+- 'HAA rrun↔Panas
+- Qariybun↔Dekat
+- Ba 'i ydun↔Jauh
+- TSAqiylun↔Berat
+- KHAfiyfun↔Ringan
+- 'HUlwun↔manis
+- MariyDHUn↔Sakit
+- Ad-Dukkaanu↔Toko
+- THAwiylun↔Panjang
+- QaSHIyrun↔Pendek
+- Ganiyyun↔Kaya
+- Faqiyrun↔Fakir
+- At-Tuffaa 'HU↔Apel
+- Al-Gurfatu↔Ruangan
+- Al-'HAmmaamu↔Kamar mandi
+- Al-MaTHbaKHU↔Dapur
+- As-Saa 'A tu↔Jam
+- Al-Madrasa (tu)↔Sekolah
+- Al-Yaabaanu↔Jepang
+- ASH-SHIynu↔Cina
+- Al-Hindu↔India
+- Al-Mudiyru↔Pimpinan/Kepala Sekolah
+- Al-Mir 'HAA DHU↔WC
+- KHAraja - YaKHruju↔Keluar
+- DZAhaba - yaDZhabu↔Pergi
+- Daftarun↔Buku Catatan
+- 'HAqiyba(tun)↔Tas
+- Ta 'H ta↔di bawah
+- 'A laa↔Di atas
+- Al-Muhandisu↔Arsitek
+- Al-Jaami 'A (tu)↔Universitas
+- Muglaqun↔Tertutup
+- 'A mmun↔Paman (dari ibu)
+- KHAA lun↔Paman (dari ayah)
+- Al-FaSHlu↔Kelas
+- As-Suwqu↔Pasar
+- Hunaaka↔Di sana
+- AyDHAn↔Juga
+- Mikwaa(tun)↔Setrika
+- Darraaja(tun)↔Sepeda
+- Jiddan↔Sangat
+- Mil 'A qa (tun)↔Sendok
+- Qidrun↔Guci
+- Baqara(tun)↔Sapi Betina
+- Al-Fallaa 'HU↔Petani
+- Anfun↔Hidung
+- Famun↔Mulut
+- U DZUnun↔Telinga
+- 'Aynun↔Mata
+- Yadun↔Tangan
+- Rijlun↔Kaki
+- Dajjaaja(tun)↔Ayam betina
+- NaafiDZA(tun)↔Jendela
+- Mirwa 'HA (tun)↔Kipas Angin
+- Mukayyafun↔AC
+- Al-La 'H mu↔Daging
+- ATS-TSA llaaja(tu)↔Kulkas
+- Sariy 'UN↔Cepat
+- Al-Qahwa(tu)↔Kopi
+- ASY-SYAA ri 'U↔Jalan
+- ASY-SYAA yu↔Teh
+- MumarriDHA(tun)↔Perawat
+- Ba THTHA (tun)↔Bebek
+- BayDHA(tun)↔Telur
+- Naaqa(tun)↔Unta betina
+- Mu (w)a DZDZi nun↔Muadzin
+- 'HA diyqa(tun)↔Kebun
+- Amaama↔Di depan
+- KHAlfa↔Di belakang
+- Fawqa↔Di atas (jauh)
+- As-Sikkiynu↔Pisau
+- Al-MustaSYfaa↔Rumah Sakit
+- Al-Aana↔Sekarang
+- Al-Mi 'H raabu↔Mihrab (tempat imam)
+- La DZi yDZUN↔Lezat
+- 'U SH fuwrun, 'A SHAA fiyru (jamak)↔Burung kutilang
+- Syahiyrun↔Terkenal
+- Jaw 'AA nu↔Lapar
+- 'A TH syaanu↔Haus
+- GaDHbaanu↔Marah
+- Mal' aanu↔Terisi penuh
+- THAA irun, THU yuyrun (jamak)↔Burung
+- Kuwbun, Akwaabun(jamak)↔Gelas
+- Al-Fataa(y)↔Pemuda
+- Sahlun↔Mudah
+- SHA" bun↔Susah
+- Al-Urdunu↔Negara Yordania
+- THIflun↔Bayi/Anak kecil
+- Waziyrun↔Menteri
+- Al-Muwajjihu↔Pembina
+- Al-Fataa(tu)↔Pemudi
