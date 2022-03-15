@@ -1,0 +1,89 @@
+- Jamak
+    - THAA libun (siswa)↔THU llaabun
+    - Taajirun(Pedagang)↔Tujjaarun
+    - 'HAA jjun↔'HU jjaajun
+    - Rajulun(Pemuda)↔Rijaalun
+    - Kabiyrun(Besar)↔Kibaarun
+    - SHA giyrun(Kecil)↔SHI gaarun
+    - QaSHIyrun(Pendek)↔QiSHAArun
+    - THA wiylun↔THi waalun
+    - Waladun↔Awlaa dun
+    - Ibnun↔Abnaa un
+    - 'A mmun↔A' maamun
+    - SYA yKHUN↔SYU yuwKHUN
+    - DHA yfun↔DHU yuwfun
+    - ZAmiylun↔ZUmalaa u
+    - Faqiyrun↔Fuqaraa u
+    - Ganiyyun↔Agniyaa u
+    - SHA diyqun↔aSH diqaa u
+    - THAbiybun↔aTHibbaa u
+    - Fatan↔Fitya(tun)
+    - AKHUN↔iKHwa (tun)
+    - Jadiydun↔Jududun
+    - Mudarrisun↔Mudarrisuwna
+    - Muhandisun→Muhandisuwna
+    - Falla 'HUN↔Falla 'HUW na
+    - Mujtahidun↔Mujtahiduwna
+    - Muslimun↔Muslimuwna
+    - THAAliba(tun)↔THAAlibaatun
+    - Mudarrisa(tun)↔Mudarrisaatun
+    - THAbiyba(tun)↔THAbiybaatun
+    - Muslima(tun)↔Muslimaatun
+    - Zawja(tun)↔Zawjaatun
+    - Ukhtun↔AKHA waatun
+    - Fataa(tun)↔Fatayaatun
+    - Az-Zawju↔Azwaajun
+    - Al-Mar atu↔Nisaa un
+    - DHA 'iyfun / DHA 'iyfa(tun)↔DHI 'AA fun
+    - Ummun↔Ummahaatun
+    - Qawiyun↔Aqwiyaa u
+    - Abun↔Aa baa un
+    - 'AA limun↔'U lamaa u
+    - Najmun↔Nujuwmun
+    - Darsun↔Duruwsun
+    - Qalamun↔Aqlaamun
+    - Baabun↔Abwaabun
+    - Nahrun↔Anhaarun
+    - Jabalun↔Jibaalun
+    - Kalbun↔Kilaabun
+    - Ba 'H run↔Ba 'HAA run
+    - Kitaabun↔Kutubun
+    - 'Hi maarun↔'HU murun
+    - Sariyrun↔Sururun
+    - Daftarun↔Dafaatiru
+    - Maktabun↔Makaatibu
+    - Funduqun↔Fanaadiqu
+    - Saa 'A (tun)↔Saa 'AA tun
+- Mufrodat
+    - Al-'HA qlu↔Ladam
+    - ADH-DHAyfu↔Tamu
+    - ASY-SYA yKHU↔Orang Tua
+    - Al-MaTH 'A mu↔Tempat makan
+    - Al-Madrasa(tu) Al-Ibtidaa iyya(tu)↔SD
+    - Az-Zawju↔Suami
+    - Al-Mar atu↔Perempuan
+    - DHA 'iyfun / DHA 'iyfa(tun)↔Lemah
+    - Qawiyun↔Kuat
+    - Ummun↔Ibu
+    - Abun↔Ayah
+    - 'AA limun↔Orang berilmu
+    - Al-Kulliyya(tu)↔Jurusan
+    - Kulliyya(tu) Asy-SYAriy 'A(ti)↔Jurusan Syariat
+    - Kulliyya(tu) At-Tijaara(ti)↔Jurusan Perdagangan
+    - Na SHraaniyun↔Na SHAA raa(y)
+    - Kulliyya(tu) ATH-THibbi↔Kedokteran
+    - Kulliya(tu) Al-Handasa(ti)↔Arsitektur
+    - Al-Ma 'H kama(tu)↔Perhakiman
+    - Al-Yuwnaanu↔Yunani
+    - Al-Baladu↔Negara
+    - Qabla↔Sebelum
+    - Ba' da↔Setelah
+    - Kayfa↔Bagaimana
+    - Mataa(y)↔Kapan
+    - Al-Asbuw 'U↔Minggu
+    - Asy-SYAhru↔Bulan
+    - Al-A DZAA nu↔Adzan
+    - ASH-SHAlaa(tu)↔Shalat
+    - Raja 'A↔Pulang
+    - ikhtibaarun↔Ujian
+    - Nahrun↔Sungai
